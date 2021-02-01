@@ -50,7 +50,7 @@
 {
 "theme_server":"TGHost",
 "theme_name":"Dark",
-"theme_user":"ClebersonJrX",
+"theme_user":"Robert",
 "theme_date":"31 de outubro",
 "theme_size":"8 KB",
 "theme_preview_1":"https://telegra.ph/file/39fb4e50d4068aa520531.jpg", 
@@ -74,7 +74,7 @@
 {
    "theme_server":"stfly", 
    "theme_name":"Happy Halloween", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"30 de outubro", 
    "theme_size":"323.55 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/5fjn1phd6311yvu/Happy+Halloween+.zip/file", 
@@ -230,7 +230,7 @@
 {
    "theme_server":"stfly", 
    "theme_name":"Natureza Pura", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"531.32 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/wxtq2oagwr5m778/Natureza_Pura.zip/file", 
@@ -242,7 +242,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"RM Rei", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"555.73 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/poxct3xik6zak0m/Yx_Rei_.zip/file", 
@@ -254,7 +254,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"RM Homen Aranha", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"900.68 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/lamkweol7ns4cdp/Yx_Homen_Aranha_.zip/file", 
@@ -266,7 +266,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"Moana", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"918.48 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/awdy1cw50wntkqt/Yx_Moana.zip/file", 
@@ -278,7 +278,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"RM Rio", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"742.93 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/m98a5xrowli9ueu/Yx_Rio_.zip/file", 
@@ -290,7 +290,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"Musical Note", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"482.74 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/sywjwegr4h0j7zq/Yx+Musical+Note.zip/file", 
@@ -302,7 +302,7 @@
  {
    "theme_server":"stfly", 
    "theme_name":"RM Smurf", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"25 de outubro", 
    "theme_size":"589.75 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/tm570yjtaaqwphk/Yx+Smurf+.zip/file", 
@@ -518,7 +518,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM V De Vingança", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"138.65 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/v7pcnv44sdo4kqc/Yx+V+De+Vingan%C3%A7a+.zip/file", 
@@ -530,7 +530,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Luzes De Ifel", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"584.69 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/sbmyk80hlx7w3xi/Yx+Luzes+De+Ifel+.zip/file", 
@@ -542,7 +542,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Styles", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"445.77 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/9yfon6iuwh9vg3m/Yx+Styles.zip/file", 
@@ -554,7 +554,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM SexyGirl", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"495.33 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/ytvvatgvma9kzzc/Yx+SexyGirl.zip/file", 
@@ -566,7 +566,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Purge Mask", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"541.05 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/y3oyuio2cbzm6b4/Yx+Purge+Mask.zip/file", 
@@ -578,7 +578,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Masked Girl", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"727.33 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/qv1hh8omr29d3w7/Yx+Masked+Girl.zip/file", 
@@ -590,7 +590,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Seduction Woman", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"556.42 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/5pzy5rh8nhhde8b/Yx+Seduction+Woman.zip/file", 
@@ -602,7 +602,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Man Style", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"376.44 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/2sszvo3nt2sql9n/Yx+Man+Style.zip/file", 
@@ -614,7 +614,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Man Masked", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"484.83 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/r0mtnlixub5ryz5/Man+Masked.zip/file", 
@@ -626,7 +626,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Flamingo", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"309.09 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/ela11v033n2tk5p/Yx+Flamingo+.zip/file", 
@@ -638,7 +638,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"OneUi Anjos Da Noite", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de outubro", 
    "theme_size":"695.28 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/9tpc1ugcheka5ob/OneUi_Anjos_Da_Noite_.zip/file", 
@@ -734,7 +734,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"OneUi Minnie Mouse", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"631.53 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/p3wi4t03yj8q4hv/OneUi+Minnie+Mouse.zip/file", 
@@ -746,7 +746,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM 365 DNI", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"673.06 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/xcwf0k2x2nv63vv/Yx+365+DNI.zip/file", 
@@ -758,7 +758,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM The Simpsons", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"546.11kb", 
    "theme_download_noads":"http://www.mediafire.com/file/5xnakdb46l2z1tr/Yx+The+Simpsons+.zip/file", 
@@ -770,7 +770,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Hello Kitty", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"556.75 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/ycevgzl40uylq07/Yx+Hello+Kitty.zip/file", 
@@ -782,7 +782,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM FroZen", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"1.12 MB", 
    "theme_download_noads":"http://www.mediafire.com/file/n2028i4jkdesngb/Yx+FroZen.zip/file", 
@@ -794,7 +794,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Os Minions", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"615.88 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/opwjqlck6hw3zqw/Yx+Os+Minions+.zip/file", 
@@ -806,7 +806,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Lufy", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"745.4 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/btysszxmiukli0c/Yx+Lufy+.zip/file", 
@@ -818,7 +818,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM DreamCatcher", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"838.59 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/ud37nxynwo80tjp/Yx+DreamCatcher.zip/file", 
@@ -830,7 +830,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Black Panther", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"652.35 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/n5yjugz9zpuhtwa/Yx+Black+Panther.zip/file", 
@@ -842,7 +842,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Bela EA Fera", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"910.16 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/l6x1jgqrjvowzrp/Yx+Bela+Ea+Fera.zip/file", 
@@ -854,7 +854,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM PopG", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"673.53 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/ooh088hub5j3g5f/Yx+PoP+G.zip/file", 
@@ -866,7 +866,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Petter Pan", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"848.56 KB", 
    "theme_download_noads":"http://www.mediafire.com/file/wdmdc81spdiasf3/Yx+Petter+Pan.zip/file", 
@@ -878,7 +878,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Highland Wolf", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"15 de Setembro", 
    "theme_size":"1.02 MB", 
    "theme_download_noads":"http://www.mediafire.com/file/yj9hr1sy4e3iomn/Yx+Highland+Wolf.zip/file", 
@@ -962,7 +962,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"Le�o Yx", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"767.71 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/qr6rl8ez8z3bl0q/Le%C3%A3o+Yx+V2.zip/file", 
@@ -974,7 +974,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"Anime Girl", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"643.8 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/0ums3gvnpvr8m3d/Anime+Girl.zip/file", 
@@ -986,7 +986,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM WolveLogan", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"630.15 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/nar9qzuyi0ovpl6/Yx+WolveLogan.zip/file", 
@@ -998,7 +998,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"Gatinha Marie", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"669.21 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/c79u3birwo8d6gu/Gatinha+Marie.zip/file", 
@@ -1010,7 +1010,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Betty Boop", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"744.08 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/jmiy4pyvdvqgpw7/Yx+Betty+Boop+V2.zip/file", 
@@ -1022,7 +1022,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"CoruYx", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"721.24 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/9kgvel6237b86un/CoruYx.zip/file", 
@@ -1034,7 +1034,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Blue Borboleta", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"642.2 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/8bo7xvi508rvyok/Yx+Blue+Borboleta+.zip/file", 
@@ -1046,7 +1046,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"Gato Flor", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"674.75 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/9gvth16ijqbch6y/Gato+Flor.zip/file", 
@@ -1058,7 +1058,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"OneUi Vis A Vis", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"526.14 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/a5h108t19oqlkev/OneUi+Vis+A+Vis.zip/file", 
@@ -1070,7 +1070,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"Mulher-Maravilha", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"04 de Setembro", 
    "theme_size":"733.75 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/g4o0dj9ffdg30tl/Mulher-Maravilha.zip/file", 
@@ -1089,7 +1089,7 @@
 {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Cactus", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"273.46 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/y0ua6ppazvro49l/Yx+Cactus.zip/file", 
@@ -1101,7 +1101,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"UCHIHA ONEUI", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"404.11 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/f6z2e9t17dsklu5/UCHIHA+ONEUI.zip/file", 
@@ -1113,7 +1113,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"OneUi La Casa De Papel", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"460.78 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/psx4mzvs4v8re7q/OneUi+La+Casa+De+Papel+.zip/file", 
@@ -1125,7 +1125,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM PoP", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"356.12 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/owdysnf4hvceefr/Yx+PoP.zip/file", 
@@ -1137,7 +1137,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Girassol", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"512.37 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/p2dk7py10d5o0f3/Yx+Girassol.zip/file", 
@@ -1149,7 +1149,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"Lapiz Hot OneUi", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"537.89 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/cm2qloy4nnu3qh6/Lapiz+Hot+OneUi.zip/file", 
@@ -1161,7 +1161,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Joker", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"840.12 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/lmtz8bwemizpz1f/Yx+Joker.zip/file", 
@@ -1173,7 +1173,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM Stitch", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"29 de agosto", 
    "theme_size":"544.51 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/ji3fr3t4d607qqk/Yx+Stitch.zip/file", 
@@ -1184,8 +1184,8 @@
  },
 {
    "theme_server":"Shrtfly",  
-   "theme_name":"Tema Yx Amor", 
-   "theme_user":"Huss", 
+   "theme_name":"Theme RM Amor", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"229.74 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/z9p263o6grh198a/Tema+Yx+Amor.zip/file", 
@@ -1196,8 +1196,8 @@
  },
  {
    "theme_server":"Shrtfly",  
-   "theme_name":"Tema GirlTema", 
-   "theme_user":"Huss", 
+   "theme_name":"Theme GirlTema", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"77.96 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/ld3yh4uu2gspcd5/Yx+GirlTema+.zip/file", 
@@ -1209,7 +1209,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM FLOWERS", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"145.1 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/53umbrdw6iypeql/YX+FLOWERS.zip/file", 
@@ -1221,7 +1221,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM MultiColor", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"2.38 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/9mi3bspt1808zw9/YX+MultiColor.zip/file", 
@@ -1232,8 +1232,8 @@
  },
  {
    "theme_server":"Shrtfly",  
-   "theme_name":"Tema Yx Coringa", 
-   "theme_user":"Huss", 
+   "theme_name":"Theme RM Coringa", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"212.68 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/fm4q5m9jib4rjuz/Tema+Yx+Coringa.zip/file", 
@@ -1245,7 +1245,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM ARLEQUINA", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"512.42 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/rk78j5lkhwpwqcu/YX+ARLEQUINA.zip/file", 
@@ -1257,7 +1257,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM DragonBall", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"675.08 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/1w0djs2nyjivkm0/Yx+DragonBall.zip/file", 
@@ -1269,7 +1269,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM UNIC�RNIO", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"598.18 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/eet4k7blw4um6i0/YX+UNIC%C3%93RNIO+.zip/file", 
@@ -1281,7 +1281,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM MICKEY MOUSE", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"635.98 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/omvf7om1acbla2o/YX+MICKEY+MOUSE+.zip/file", 
@@ -1293,7 +1293,7 @@
  {
    "theme_server":"Shrtfly",  
    "theme_name":"RM �NCORA", 
-   "theme_user":"Huss", 
+   "theme_user":"Romu", 
    "theme_date":"26 de agosto", 
    "theme_size":"560.43 kb", 
    "theme_download_noads":"http://www.mediafire.com/file/76gi9hyfnjj25sj/Yx+%C3%82ncora+.zip/file", 
@@ -1388,7 +1388,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Donald & Daisy",
+  "theme_name":"Theme Donald & Daisy",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"258,3 KB",
@@ -1400,7 +1400,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Aurora",
+  "theme_name":"Theme Aurora",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"100,3 KB",
@@ -1412,7 +1412,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Pink",
+  "theme_name":"Theme Pink",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"2,5 KB",
@@ -1424,7 +1424,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Paris",
+  "theme_name":"Theme Paris",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"234,7 KB",
@@ -1436,7 +1436,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Bela",
+  "theme_name":"Theme Bela",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"158,9 KB",
@@ -1448,7 +1448,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Unic�rnio",
+  "theme_name":"Theme Unic�rnio",
   "theme_user":"Nerd Digital",
   "theme_date":"19 de agosto",
   "theme_size":"159,7 KB",
@@ -1518,7 +1518,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Marie",
+  "theme_name":"Theme Marie",
   "theme_user":"Nerd Digital",
   "theme_date":"17 de agosto",
   "theme_size":"91,5 KB",
@@ -1530,7 +1530,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Astronauta",
+  "theme_name":"Theme Astronauta",
   "theme_user":"Nerd Digital",
   "theme_date":"17 de agosto",
   "theme_size":"325,2 KB",
@@ -1542,7 +1542,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Ciudad Tokio",
+  "theme_name":"Theme Ciudad Tokio",
   "theme_user":"Nerd Digital",
   "theme_date":"17 de agosto",
   "theme_size":"887,0 KB",
@@ -1554,7 +1554,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Planet",
+  "theme_name":"Theme Planet",
   "theme_user":"Nerd Digital",
   "theme_date":"17 de agosto",
   "theme_size":"223,4 KB",
@@ -1579,7 +1579,7 @@
 {
   "theme_server":"Encurtanet",
   "theme_name":"OneUI Breaking Bad",
-  "theme_user":"ClebersonJrX",
+  "theme_user":"Robert",
   "theme_date":"16 de agosto",
   "theme_size":"502 KB",
   "theme_download_noads":"https://tgho.st/m7t62",
@@ -1662,7 +1662,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Flowery",
+  "theme_name":"Theme Flowery",
   "theme_user":"Nerd Digital",
   "theme_date":"16 de agosto",
   "theme_size":"204,0 KB",
@@ -1674,7 +1674,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Harlequin",
+  "theme_name":"Theme Harlequin",
   "theme_user":"Nerd Digital",
   "theme_date":"16 de agosto",
   "theme_size":"157,2 KB",
@@ -1686,7 +1686,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Blue Green",
+  "theme_name":"Theme Blue Green",
   "theme_user":"Nerd Digital",
   "theme_date":"16 de agosto",
   "theme_size":"3,8 KB",
@@ -1698,7 +1698,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Default",
+  "theme_name":"Theme Default",
   "theme_user":"Nerd Digital",
   "theme_date":"16 de agosto",
   "theme_size":"2,7 KB",
@@ -1711,7 +1711,7 @@
 {
   "theme_server":"Shrtfly", 
   "theme_name":"OneUI Infinite Blur",
-  "theme_user":"ClebersonJrX",
+  "theme_user":"Robert",
   "theme_date":"15 de agosto",
   "theme_size":"502 KB",
   "theme_download_noads":"https://tgho.st/8ayDF",
@@ -1722,7 +1722,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Modo Escuro",
+  "theme_name":"Theme Modo Escuro",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"222,2 KB",
@@ -1734,7 +1734,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Bart Make",
+  "theme_name":"Theme Bart Make",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"83,0 KB",
@@ -1746,7 +1746,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Unicorn",
+  "theme_name":"Theme Unicorn",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"75,6 KB",
@@ -1758,7 +1758,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Starco",
+  "theme_name":"Theme Starco",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"79,8KB",
@@ -1770,7 +1770,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema White Purple",
+  "theme_name":"Theme White Purple",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"2,3 KB",
@@ -1782,7 +1782,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Telegram",
+  "theme_name":"Theme Telegram",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"212,4 KB",
@@ -1794,7 +1794,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema iOs Dark",
+  "theme_name":"Theme iOs Dark",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"238,5 KB",
@@ -1806,7 +1806,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema iOs",
+  "theme_name":"Theme iOs",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"224,1 KB",
@@ -1818,7 +1818,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Messenger White",
+  "theme_name":"Theme Messenger White",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"2,3 KB",
@@ -1830,7 +1830,7 @@
 },
 {
   "theme_server":"Shrtfly", 
-  "theme_name":"Tema Messenger Black",
+  "theme_name":"Theme Messenger Black",
   "theme_user":"Nerd Digital",
   "theme_date":"14 de agosto",
   "theme_size":"2,3 KB",
